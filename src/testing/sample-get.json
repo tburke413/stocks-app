@@ -1,0 +1,24 @@
+{
+  "status": { "code": 200, "message": "Success." },
+  "results": [
+    {
+      "symbol": "AMD",
+      "exchange": "NASDAQ",
+      "name": "Adv Micro Devices",
+      "dayCode": "K",
+      "serverTimestamp": "2020-08-23T20:07:20-05:00",
+      "mode": "d",
+      "lastPrice": 83.81,
+      "tradeTimestamp": "2020-08-21T18:55:00-04:00",
+      "netChange": 1.0400000000000063,
+      "percentChange": 1.26,
+      "unitCode": "2",
+      "open": 83.29,
+      "high": 84.41,
+      "low": 82.23,
+      "close": 83.81,
+      "flag": "s",
+      "volume": 48280318
+    }
+  ]
+}

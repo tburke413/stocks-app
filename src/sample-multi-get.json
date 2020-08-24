@@ -1,0 +1,62 @@
+{
+  "status": { "code": 200, "message": "Success." },
+  "results": [
+    {
+      "symbol": "AMD",
+      "exchange": "NASDAQ",
+      "name": "Adv Micro Devices",
+      "dayCode": "K",
+      "serverTimestamp": "2020-08-23T20:17:51-05:00",
+      "mode": "d",
+      "lastPrice": 83.81,
+      "tradeTimestamp": "2020-08-21T18:55:00-04:00",
+      "netChange": 1.0400000000000063,
+      "percentChange": 1.26,
+      "unitCode": "2",
+      "open": 83.29,
+      "high": 84.41,
+      "low": 82.23,
+      "close": 83.81,
+      "flag": "s",
+      "volume": 48280318
+    },
+    {
+      "symbol": "AAPL",
+      "exchange": "NASDAQ",
+      "name": "Apple Inc",
+      "dayCode": "K",
+      "serverTimestamp": "2020-08-23T20:17:51-05:00",
+      "mode": "d",
+      "lastPrice": 497.48,
+      "tradeTimestamp": "2020-08-21T18:55:00-04:00",
+      "netChange": 24.379999999999995,
+      "percentChange": 5.15,
+      "unitCode": "2",
+      "open": 477.05,
+      "high": 499.47,
+      "low": 477,
+      "close": 497.48,
+      "flag": "s",
+      "volume": 84513660
+    },
+    {
+      "symbol": "GOOG",
+      "exchange": "NASDAQ",
+      "name": "Alphabet Cl C",
+      "dayCode": "K",
+      "serverTimestamp": "2020-08-23T20:17:51-05:00",
+      "mode": "d",
+      "lastPrice": 1580.42,
+      "tradeTimestamp": "2020-08-21T18:55:00-04:00",
+      "netChange": -1.3299999999999272,
+      "percentChange": -0.08,
+      "unitCode": "2",
+      "open": 1577.03,
+      "high": 1597.72,
+      "low": 1568,
+      "close": 1580.42,
+      "flag": "s",
+      "volume": 1446453
+    }
+  ]
+}
